@@ -1,0 +1,19 @@
+.pokecard{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 2rem 0;
+    width: 22%;
+    background-color: #fbd743;
+}
+
+.pokecard-content{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.pokecard-content h2{
+    color: #ff1f1f;
+}
+
+.pokecard-content img{
+    width: 100%;
+}
